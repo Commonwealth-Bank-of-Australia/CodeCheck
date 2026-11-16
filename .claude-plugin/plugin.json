@@ -1,0 +1,11 @@
+{
+  "name": "codecheck",
+  "displayName": "CodeCheck",
+  "version": "0.0.1",
+  "description": "CWE-targeted static application security testing harness with read-only CWE hunts and evidence-backed findings; Supports Claude Code and Codex",
+  "author": {
+    "name": "Commonwealth Bank of Australia (CBA)"
+  },
+  "license": "MIT",
+  "keywords": ["cyber", "security", "sast", "cwe", "static-analysis"]
+}

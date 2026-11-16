@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "scripts": {
+    "lint": "prettier --check .",
+    "fmt": "prettier --write ."
+  },
+  "devDependencies": {
+    "prettier": "3.9.10"
+  },
+  "prettier": {
+    "proseWrap": "always"
+  }
+}
