@@ -1,0 +1,20 @@
+{
+  "name": "cba-codecheck",
+  "interface": {
+    "displayName": "CBA CodeCheck"
+  },
+  "plugins": [
+    {
+      "name": "codecheck",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Secure Development, Vulnerability Discovery, and Security Research"
+    }
+  ]
+}

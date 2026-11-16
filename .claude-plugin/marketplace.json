@@ -1,0 +1,14 @@
+{
+  "name": "cba-codecheck",
+  "owner": {
+    "name": "Commonwealth Bank of Australia (CBA)"
+  },
+  "description": "Commonwealth Bank of Australia - Claude Code Marketplace",
+  "plugins": [
+    {
+      "name": "codecheck",
+      "source": "./",
+      "description": "CWE-targeted static application security testing harness with read-only CWE hunts and evidence-backed findings; Supports Claude Code and Codex"
+    }
+  ]
+}
